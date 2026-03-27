@@ -1,0 +1,6 @@
+- sección para ver los convenios
+- sección para ver los diferentes documentos de internos, deben poder visualizarse y descargar( algunos) y otros debe bloquearse su descargar o copia
+- crear un sistema aprueba de tontos, para que mi quería anita, pueda publicar notificaciones a su antojo
+- crear un sistema de login de usuarios y trabajadores
+
+
